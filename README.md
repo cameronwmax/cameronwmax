@@ -13,9 +13,6 @@ I’m a **Software Engineer** 💻. I work with **React**, **Node.js**, **TypeSc
 - **Databases:** MongoDB, PostgreSQL, MySQL
 
 ## Find me online:
-- [Portfolio](#) 🌐
+- [Portfolio](#) **(Coming soon!)** 🚧
 - [LinkedIn](#) 🔗
 - [Email](#) 📧
-
-## GitHub Stats:
-![Cameron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cameronwmax&show_icons=true&count_private=true&hide_title=true&theme=radical)
