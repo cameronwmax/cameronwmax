@@ -18,4 +18,4 @@ I’m a **Software Engineer** 💻. I work with **React**, **Node.js**, **TypeSc
 - [Email](#) 📧
 
 ## GitHub Stats:
-![Cameron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true&theme=radical)
+![Cameron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cameronwmax&show_icons=true&count_private=true&hide_title=true&theme=radical)
