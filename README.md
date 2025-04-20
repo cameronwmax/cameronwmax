@@ -1,25 +1,21 @@
-Hi, I’m Cameron Maxwell 👋
-I’m a Software Engineer 💻. I work with React, Node.js, TypeScript, and Python 🐍 on a variety of projects, from web apps 🌐 to scripts.
+# Hi, I’m **Cameron Maxwell** 👋
 
-What I’m working on:
-Building web apps 🌍 and exploring backend development 🔧.
+I’m a **Software Engineer** 💻. I work with **React**, **Node.js**, **TypeScript**, and **Python** 🐍 on a variety of projects, from web apps 🌐 to scripts.
 
-Working on Python projects 🕹️.
+## What I’m working on:
+- **Building web apps** 🌍 and exploring backend development 🔧
+- **Working on Python projects** 🕹️
+- **Always trying to learn more** and improve my skills 📚
 
-Always trying to learn more and improve my skills 📚.
+## Technologies I use:
+- **Languages:** JavaScript, TypeScript, Python
+- **Frameworks & Libraries:** React, Next.js, Express, Tailwind
+- **Databases:** MongoDB, PostgreSQL, MySQL
 
-Technologies I use:
-Languages: JavaScript, TypeScript, Python
+## Find me online:
+- [Portfolio](#) 🌐
+- [LinkedIn](#) 🔗
+- [Email](#) 📧
 
-Frameworks & Libraries: React, Next.js, Express, Tailwind
-
-Databases: MongoDB, PostgreSQL, MySQL
-
-Find me online:
-Portfolio 🌐
-
-LinkedIn 🔗
-
-Email 📧
-
-GitHub Stats:
+## GitHub Stats:
+![Cameron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true&theme=radical)
