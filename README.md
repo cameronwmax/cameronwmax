@@ -14,5 +14,5 @@ I’m a **Software Engineer** 💻. I work with **React**, **Node.js**, **TypeSc
 
 ## Find me online:
 - [Portfolio](#) **(Coming soon!)** 🚧
-- [LinkedIn](#) 🔗
-- [Email](#) 📧
+- [LinkedIn](https://www.linkedin.com/in/cameron-maxwell-05a84629a/) 🔗
+
