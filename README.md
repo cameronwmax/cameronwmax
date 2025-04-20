@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I’m Cameron Maxwell 👋
+I’m a Software Engineer 💻. I work with React, Node.js, TypeScript, and Python 🐍 on a variety of projects, from web apps 🌐 to scripts.
 
-<!--
-**cameronwmax/cameronwmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I’m working on:
+Building web apps 🌍 and exploring backend development 🔧.
 
-Here are some ideas to get you started:
+Working on Python projects 🕹️.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always trying to learn more and improve my skills 📚.
+
+Technologies I use:
+Languages: JavaScript, TypeScript, Python
+
+Frameworks & Libraries: React, Next.js, Express, Tailwind
+
+Databases: MongoDB, PostgreSQL, MySQL
+
+Find me online:
+Portfolio 🌐
+
+LinkedIn 🔗
+
+Email 📧
+
+GitHub Stats:
